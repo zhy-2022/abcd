@@ -1,1 +1,9 @@
 /logs
+*.DS_Store
+*.git
+*.gitignore
+*.jar
+*.html
+*.xdb
+._LICENSE
+*.md
